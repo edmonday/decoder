@@ -5,6 +5,8 @@ KEY = {
 23 = V  
 11 = K
   24=X
+  25= Y
+  26 =Z
 }
 #asd
 # Define a method that takes an array of numbers to decode.
