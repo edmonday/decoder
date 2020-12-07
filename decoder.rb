@@ -1,5 +1,10 @@
 KEY = {
-  11 = K
+  whyyy
+  
+  adasd
+23 = V  
+11 = K
+  24=X
 }
 #asd
 # Define a method that takes an array of numbers to decode.
